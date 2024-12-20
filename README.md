@@ -5,5 +5,6 @@ Mathematical framework for simulating sample paths of continuous-time Markov cha
 
 ## Simulation Results:
 ![image](https://github.com/user-attachments/assets/00d59576-3b67-46de-b5e4-5370bfca1f54)
-![image](https://github.com/user-attachments/assets/dd41a550-7986-49e8-8815-d8eee8225ea0)
+![image](https://github.com/user-attachments/assets/2ade6c6e-bfb9-4425-b475-e9ead3de0590)
+
 
